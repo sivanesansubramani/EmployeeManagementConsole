@@ -1,0 +1,21 @@
+D:\work\asp.net C#\Empolyee_Management_System-master\EMSProject\bin\Debug\EMSProject.exe.config
+D:\work\asp.net C#\Empolyee_Management_System-master\EMSProject\bin\Debug\EMSProject.exe
+D:\work\asp.net C#\Empolyee_Management_System-master\EMSProject\bin\Debug\EMSProject.pdb
+D:\work\asp.net C#\Empolyee_Management_System-master\EMSProject\obj\Debug\EMSProject.csprojAssemblyReference.cache
+D:\work\asp.net C#\Empolyee_Management_System-master\EMSProject\obj\Debug\EMSProject.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\Empolyee_Management_System-master\EMSProject\obj\Debug\EMSProject.exe
+D:\work\asp.net C#\Empolyee_Management_System-master\EMSProject\obj\Debug\EMSProject.pdb
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code\Empolyee_Management_System\EMSProject\bin\Debug\EMSProject.exe.config
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code\Empolyee_Management_System\EMSProject\bin\Debug\EMSProject.exe
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code\Empolyee_Management_System\EMSProject\bin\Debug\EMSProject.pdb
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.csproj.AssemblyReference.cache
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.exe
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.pdb
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code - Copy\Empolyee_Management_System\EMSProject\bin\Debug\EMSProject.exe.config
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code - Copy\Empolyee_Management_System\EMSProject\bin\Debug\EMSProject.exe
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code - Copy\Empolyee_Management_System\EMSProject\bin\Debug\EMSProject.pdb
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code - Copy\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.csproj.AssemblyReference.cache
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code - Copy\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code - Copy\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.exe
+C:\Users\ALTIUS\Downloads\Employee_Management_System_In_C_.Net_With_Source_Code - Copy\Empolyee_Management_System\EMSProject\obj\Debug\EMSProject.pdb
